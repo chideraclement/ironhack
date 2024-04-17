@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;;
+  size: 10;
+  font-weight: 300;
+  line-height: 3.5em;
+
+}
+.index-h1{ 
+ text-align: center;
+ text-transform: uppercase;
+ font-size: 5em;
+}
+
+.index-h2{
+  color: white;
+  text-shadow: #020819 8px -20px 9px;
+ text-align: center;
+ font-size: 3em;
+ text-transform: uppercase;
+ line-height: 4em;
+}
+
+.index-aside{ font-size: 2.2em;
+
+}
+.class-p{
+font-size: 2em;
+font-weight: 100;
+text-align: center;
+}
+
+.index-3{
+  text-align: center;
+  font-size: 4.2em;
+  line-height: 1em;
+}
+
+.index-4{ 
+  text-align: center;
+  font-size: 4.7em;
+ letter-spacing: 0.4px;
+  line-height: 1em;
+}
+
+.index-5{
+  text-align: center;
+  font-size: 4.7em;
+  line-height: 1em;
+  line-height: 1em;
+}
+.index-nav{ background-color: rgb(25, 33, 41);
+ 
+}
+
+.index-nav a { color: white;
+  text-decoration: none;
+  font-size: 1em;
+
+}
+.header-1{ 
+  background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
+  background-position: 0%;
+  background-repeat: repeat;
+  background-size: cover;
+  height: 650px;
+}
+.index-div{
+  background-color: rgb(25, 33, 41);
+  color: white;
+}
+.class-1{
+  font-size: 2em;
+  text-align: center;
+  font-weight: 100;
+  
+}
+
+.index-class1{ 
+  background-color: rgb(67, 163, 230);
+  color: white;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  font-family: Roboto Condensed;
+  font-size: 2em;
+  text-align: center;
+}
+
+.service-box{
+  font-size: 1.7em;
+  text-align: center;
+}
+.service-box img{ 
+width: 125px;
+}
+.class-team{
+   background-color: rgb(25, 33, 41);
+}
+
+.team-h3{ 
+  color: white;
+  font-size: 1.9em;
+  text-align: center;
+}
+.team-p{
+  color: white;
+  font-size: 1.2em;
+  text-align: center;
+}
+.team-h4{ font-size: 1.5em;
+  font-weight: 700;
+  color: white;
+
+}
+.class-team img{
+  width: 250px;
+  height: 180px;
+}
+.class-footer{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  font-style: normal;
+  background-color: rgb(25, 33, 41)
+  
+}
+
+.class-footer a{
+  color: rgb(67, 163, 230);
+  
+}
+
+.class-schedul{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: none;
+}
+.class-ul{
+  list-style: none;
+  font-style: normal;
+}
+.class-ul-to-remove-style{ list-style: none;}
